@@ -92,7 +92,7 @@ curl -X POST http://localhost:8000/api/v1/analyze/ \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer <token>" \
   -d '{
-    "repository_url": "https://github.com/example/repo",
+    "repository_url": "https://github.com/lemayian23/code-review-ai.git",
     "pull_request_id": 123,
     "diff_content": "diff --git a/src/main.py b/src/main.py...",
     "base_commit": "abc123",
