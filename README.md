@@ -76,7 +76,14 @@ An intelligent code review assistant that learns from team feedback to automatic
 - **Flower Dashboard**: http://localhost:5555
 - **Weaviate**: http://localhost:8080
 
-## 📚 Usage
+## 📚 Documentation
+
+- **[API Documentation](docs/API.md)** - Complete API reference with examples
+- **[Architecture Guide](ARCHITECTURE.md)** - System design and components
+- **[Deployment Guide](docs/DEPLOYMENT.md)** - Production deployment instructions
+- **[Development Guide](docs/DEVELOPMENT.md)** - Local development setup
+
+## 🚀 Usage
 
 ### Analyze Code
 
@@ -255,7 +262,11 @@ MIT License - see LICENSE file for details.
 
 ## 🆘 Support
 
-- **Documentation**: [docs/](docs/)
+- **Documentation**:
+  - [API Reference](docs/API.md)
+  - [Architecture Guide](ARCHITECTURE.md)
+  - [Deployment Guide](docs/DEPLOYMENT.md)
+  - [Development Guide](docs/DEVELOPMENT.md)
 - **Issues**: GitHub Issues
 - **Discussions**: GitHub Discussions
 
