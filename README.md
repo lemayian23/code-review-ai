@@ -1,4 +1,4 @@
-# Code Review AI
+#README for Code Review AI
 
 An intelligent code review assistant that learns from team feedback to automatically catch domain-specific bugs and enforce evolving architectural patterns across microservices.
 
